@@ -19,9 +19,11 @@ Redo the Install Process ;)
 Emoticons:
 =====
 
-`[breeze_by]`
+When the code that I have not tested on dev works perfectly in production
 ------
 ![breeze_by](https://raw.github.com/manifestinteractive/devlife/master/DevLife.AdiumEmoticonSet/breeze_by.gif)
+
+`[breeze_by]`
 
 `[bug_reports]`
 ------
