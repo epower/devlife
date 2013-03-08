@@ -1,7 +1,7 @@
 Developer Life Emoticon set for Adium
 =====
 
-Special Thanks to [Martin Valasek](http://martinvalasek.com "Martin Valasek") for putting this list together on [His Website](http://martinvalasek.com/blog/pictures-from-a-developers-life "His Website"), it caused so much laughter around our office that we just had to package them up as emoticons.
+Special Thanks to [Martin Valášek](http://martinvalasek.com/blog/pictures-from-a-developers-life) and [Nicolas Lecointre](http://thecodinglove.com) for putting this list together, it caused so much laughter around our office that we just had to package them up as emoticons.
 
 To Install:
 ------
