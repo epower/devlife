@@ -1,13 +1,23 @@
 Developer Life Emoticon set for Adium
-------------------------------
+=====
+
+Special Thanks to [Martin Valasek](http://martinvalasek.com "Martin Valasek") for putting this list together on [His Website](http://martinvalasek.com/blog/pictures-from-a-developers-life "His Website"), it caused so much laughter around our office that we just had to package them up as emoticos.
 
 To Install:
+------
 
-Check out this repository on your Mac. The folder "DevLife.AdiumEmoticonSet"
-should show up as a bundle if you have Adium installed. Double-click it to install.
+Check out this repository on your Mac, or **[Download our Zip File](https://github.com/manifestinteractive/devlife/archive/master.zip)**. The folder DevLife.AdiumEmoticonSet
+should show up as a bundle if you have [Adium](http://adium.im/) installed.
+
+**Double Click DevLife.AdiumEmoticonSet to Install !!**
+
+To Update:
+------
+
+Redo the Install Process ;)
 
 Emoticons:
-------
+=====
 
 `[breeze_by]`
 ------
