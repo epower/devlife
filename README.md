@@ -1,7 +1,7 @@
 Developer Life Emoticon set for Adium
 =====
 
-Special Thanks to [Martin Valasek](http://martinvalasek.com "Martin Valasek") for putting this list together on [His Website](http://martinvalasek.com/blog/pictures-from-a-developers-life "His Website"), it caused so much laughter around our office that we just had to package them up as emoticos.
+Special Thanks to [Martin Valasek](http://martinvalasek.com "Martin Valasek") for putting this list together on [His Website](http://martinvalasek.com/blog/pictures-from-a-developers-life "His Website"), it caused so much laughter around our office that we just had to package them up as emoticons.
 
 To Install:
 ------
@@ -15,6 +15,8 @@ To Update:
 ------
 
 Redo the Install Process ;)
+
+
 
 Emoticons:
 =====
@@ -223,7 +225,7 @@ When I try to fix a bug at 3 in the morning
 
 `[sleepy]`
 
-When I am the only one to notice a bug on friday night
+When I am the only one to notice a bug on Friday night
 ------
 ![sneak_peak](https://raw.github.com/manifestinteractive/devlife/master/DevLife.AdiumEmoticonSet/sneak_peak.gif)
 
