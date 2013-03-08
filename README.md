@@ -22,12 +22,12 @@ Emoticons:
 When the code that I have not tested on dev works perfectly in production
 ------
 ![breeze_by](https://raw.github.com/manifestinteractive/devlife/master/DevLife.AdiumEmoticonSet/breeze_by.gif)
-
 `[breeze_by]`
 
-`[bug_reports]`
+When the app goes into beta and the first bug reports arrive
 ------
 ![bug_reports](https://raw.github.com/manifestinteractive/devlife/master/DevLife.AdiumEmoticonSet/bug_reports.gif)
+`[bug_reports]`
 
 `[carlton]`
 ------
