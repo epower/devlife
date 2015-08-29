@@ -402,6 +402,15 @@
         <key>Name</key>
         <string>Hmm, let's rethink this.</string>
       </dict>
+      <key>dirty_dancing.gif</key>
+      <dict>
+        <key>Equivalents</key>
+          <array>
+            <string>[boss_win]</string>
+          </array>
+        <key>Name</key>
+        <string>When the boss wins!<string>
+      </dict>    
     </dict>
   </dict>
 </plist>

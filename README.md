@@ -284,3 +284,9 @@ When I realize the solution i've been working on for day is really the wrong app
 ![rethink](https://raw.github.com/manifestinteractive/devlife/master/DevLife.AdiumEmoticonSet/rethink.gif)
 
 `[rethink]`
+
+When the boss wins!
+-------
+![boss_win](https://raw.github.com/manifestinteractive/devlife/master/DevLife.AdiumEmoticonSet/dirty_dancing.gif)
+
+`[boss_win]`
